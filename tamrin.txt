@@ -1,0 +1,17 @@
+h1 =block-level
+semantic tags=
+(((article-aside-details-figcaption-figure-footer-form-header-main-mark-nav-section-summary-time)))
+a = inline
+p = block-level
+form = 
+label = inline
+input = inline
+ul li = block-level
+br = block
+hr = block 
+detail 
+summary
+table
+figure/figcaption
+button = inline
+span = inline
